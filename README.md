@@ -20,15 +20,16 @@ To set up and run this project on your machine, follow these steps:
    git clone https://github.com/your-username/ai-image-captioning.git
    cd ai-image-captioning
 
-   Usage
+
+## Usage
 Training: To train or fine-tune the model, follow the instructions in the train.ipynb notebook. You can use your own dataset or a publicly available image captioning dataset.
 
 Inference: After training, you can use the trained model for image captioning. Modify the generate_caption() function in app.py to provide the path to the image you want to caption.
 
-Contributing
+## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow these guidelines:
 
-Fork the repository.
+## Fork the repository.
 
 Create a new branch for your feature or bug fix.
 
@@ -36,10 +37,10 @@ Make your changes and ensure that your code is well-documented.
 
 Submit a pull request, explaining the purpose and details of your changes.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgments
+## Acknowledgments
 We acknowledge the valuable contributions of the machine learning and deep learning communities, as well as the authors of relevant libraries and datasets used in this project.
 
 Feel free to contact us with any questions or suggestions!
