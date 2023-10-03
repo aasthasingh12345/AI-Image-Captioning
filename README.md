@@ -17,7 +17,7 @@ To set up and run this project on your machine, follow these steps:
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/your-username/ai-image-captioning.git
+   git clone https://github.com/aasthasingh12345/AI-Image-Captioning.git
    cd ai-image-captioning
 
 
